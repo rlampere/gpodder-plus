@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 set -e
 #*******************************************************************************
-# run-gpodder+-dev.sh
-# -------------------
-# A script to run the DEVELOPMENT version of gPodder+ with test source code
-# and a test database.
+# run-dev.sh
+# ----------
+# A script to run the DEVELOPMENT version of gPodder+ with development source
+# code and a test database.
 #*******************************************************************************
 
 # Set the gPodder+ and gpodder locations for this script.
